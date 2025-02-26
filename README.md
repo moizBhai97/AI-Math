@@ -1,0 +1,1 @@
+<img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/winning-aimo-progress-prize/sc-tir.png" alt="SC-TIR algorithm" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
